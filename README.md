@@ -1,9 +1,9 @@
 Word_Search
-==================================
+===================================
 
 A word search project
 Given the following input.txt file
-===================================
+====================================
 kraths
 eopuay
 cepigs
