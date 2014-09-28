@@ -14,7 +14,8 @@ dogtem
 game pig rat dog apple system dance elle oreo
 
 ====================================
-The program would output and display
+The program would output and display 
+the following
 ====================================
 **Printing*Board**
 k r a t h s 
